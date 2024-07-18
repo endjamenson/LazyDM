@@ -1,0 +1,28 @@
+Listbox4 - Accent
+NumericUpDown14 Textbox3.text
+NumericUpDown13 textbox4.text
+NumericUpDown12 textbox5.text
+NumericUpDown11 Textbox6.text
+
+Listbox1 - Pacing
+NumericUpDown1 -Super Fast
+NumericUpDown2 -Quick
+NumericUpDown4 -Normal
+NumericUpDown6 -Semi Slow
+NumericUpDown5 - Very Slow
+
+Listbox2 - Tone
+NumericUpDown10 -Very High
+NumericUpDown9 -High
+NumericUpDown8 -Mid Pitch
+NumericUpDown7 -Low
+NumericUpDown3 - Very Low
+
+
+Listbox3.Items - Speech impetament out of 100
+
+NumericUpDown19 - Stutter
+NumericUpDown18 - Slurred Speech
+NumericUpDown17 - Lisping
+NumericUpDown16 - Cluttering
+

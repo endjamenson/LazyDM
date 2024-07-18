@@ -1,0 +1,25 @@
+All of these are from listbox on form 1
+
+commoner
+Listbox10.Items - Small
+Listbox11.Items - med
+Listbox12.Items - Lrg
+Listbox13.Items - Metro
+
+law 
+17 - lrg
+16 - med
+15 - metro
+14 - sml
+
+Leader
+21 -lrg
+20 -med
+19 - metro
+18 - sml
+
+
+RadioButton1 - small
+RadioButton2 - med
+RadioButton3 - Lrg
+RadioButton4 - Metro

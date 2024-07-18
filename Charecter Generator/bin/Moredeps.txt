@@ -1,0 +1,3 @@
+NumericUpDown22 - number of Rulers
+NumericUpDown23 - Number of Lawmen
+NumericUpDown24 - Number of commoners
