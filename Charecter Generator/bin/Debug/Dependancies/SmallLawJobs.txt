@@ -1,0 +1,6 @@
+Sheriff
+Marshal
+Veteran
+Constable
+Officer
+Guard

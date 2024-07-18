@@ -1,0 +1,19 @@
+Chief
+Mayor
+Town  Leader
+Lord/Lady (Based on gender if possible)
+Master
+Minister
+Baron/Baronness 
+Governor/Governess
+Treasurer
+Stormlord
+Warlord
+Dawnlord/Dawn Mistress
+Dusklord/Dusk Mistress
+Czar
+Knight
+Magister
+King/Queen
+Prince/Princess
+Vizier

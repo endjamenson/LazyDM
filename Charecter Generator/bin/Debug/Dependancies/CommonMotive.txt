@@ -1,0 +1,346 @@
+Wants to make money.
+Wants to see a fallen order of heroes return
+Wants to get laid
+Wants to get married
+Wants to get divorced
+Secretly part of a local crime organization
+Is trying to retire and live down the fame and acclaim attached to their name
+Was once a famous adventurer and wants everyone to know it
+Is secretly a doppleganger posing as a dead person. Wants to replace entire town with dopplegangers
+Is secretly a doppleganger that just wants to be left alone and live normal life.
+Accidentally committed a murder that was never solved
+Was part of an unsolved break-in/robbery
+Wants to orchestrate a heist
+Is secretly a serial killer.
+Is secretly a serial pooper.
+Wants the law to stop kids from vandalizing local properties
+Wants to make up for past crimes committed under different name.
+Is really a criminal in cognito
+Wants to pull off a murder/assassination.
+Once killed a person and fled before they could be identified.
+Wants to sell their family heirloom
+Wants to recover a lost family heirloom.
+Has a treasure map and wants to reclaim the prize
+Wants to bring back their lost lover from dead.
+Wants to perfect their quiche recipe.
+Wants to start an exotic pet show
+Wants to get rid of pests under their business/home.
+Wants to get rid of head of rival family.
+Wants to marry someone from rival family.
+Is expecting child soon with someone else's spouse.
+Is looking for exotic spell components
+Is looking for exotic animal parts
+Is looking for a caravan escort
+Is having moral and religious faith issues
+Thinks their home is haunted.
+Wants to go on an adventure
+Wants to become next town leader
+Wants to conduct business as usual
+Wants to learn a conjuration spell.
+Wants to learn the spell Acid Splash
+Wants to learn the spell Chill Touch
+Wants to learn the spell Dancing Lights
+Wants to learn the spell Fire Bolt
+Wants to learn the spell Light
+Wants to learn the spell Mage Hand
+Wants to learn the spell Mending
+Wants to learn the spell Message
+Wants to learn the spell Minor Illusion
+Wants to learn the spell Poison Spray
+Wants to learn the spell Prestidigitation
+Wants to learn the spell Ray of Frost
+Wants to learn the spell Shocking Grasp
+Wants to learn the spell True Strike
+Wants to learn the spell Alarm
+Wants to learn the spell Burning Hands
+Wants to learn the spell Charm Person
+Wants to learn the spell Color Spray
+Wants to learn the spell Comprehend Languages
+Wants to learn the spell Detect Magic
+Wants to learn the spell Disguise Self
+Wants to learn the spell Expeditious Retreat
+Wants to learn the spell False Life
+Wants to learn the spell Feather Fall
+Wants to learn the spell Find Familiar
+Wants to learn the spell Floating Disk
+Wants to learn the spell Fog Cloud
+Wants to learn the spell Grease
+Wants to learn the spell Hideous Laughter
+Wants to learn the spell Identify
+Wants to learn the spell Illusory Script
+Wants to learn the spell Jump
+Wants to learn the spell Longstrider
+Wants to learn the spell Mage Armor
+Wants to learn the spell Magic Missile
+Wants to learn the spell Protection from Evil and Good
+Wants to learn the spell Shield
+Wants to learn the spell Silent Image
+Wants to learn the spell Sleep
+Wants to learn the spell Thunderwave
+Wants to learn the spell Unseen Servant
+Wants to learn the spell Acid Arrow
+Wants to learn the spell Alter Self
+Wants to learn the spell Arcane Lock
+Wants to learn the spell Arcanist's Magic Aura
+Wants to learn the spell Blindness/Deafness
+Wants to learn the spell Blur
+Wants to learn the spell Continual Flame
+Wants to learn the spell Darkness
+Wants to learn the spell Darkvision
+Wants to learn the spell Detect Thoughts
+Wants to learn the spell Enlarge/Reduce
+Wants to learn the spell Flaming Sphere
+Wants to learn the spell Gentle Repose
+Wants to learn the spell Gust of Wind
+Wants to learn the spell Hold Person
+Wants to learn the spell Invisibility
+Wants to learn the spell Knock
+Wants to learn the spell Levitate
+Wants to learn the spell Locate Object
+Wants to learn the spell Magic Mouth
+Wants to learn the spell Magic Weapon
+Wants to learn the spell Mirror Image
+Wants to learn the spell Misty Step
+Wants to learn the spell Ray of Enfeeblement
+Wants to learn the spell Rope Trick
+Wants to learn the spell Scorching Ray
+Wants to learn the spell See Invisibility
+Wants to learn the spell Shatter
+Wants to learn the spell Spider Climb
+Wants to learn the spell Suggestion
+Wants to learn the spell Web
+Wants to learn the spell Animate Dead
+Wants to learn the spell Bestow Curse
+Wants to learn the spell Blink
+Wants to learn the spell Clairvoyance
+Wants to learn the spell Counterspell
+Wants to learn the spell Dispel Magic
+Wants to learn the spell Fear
+Wants to learn the spell Fireball
+Wants to learn the spell Fly
+Wants to learn the spell Gaseous Form
+Wants to learn the spell Glyph of Warding
+Wants to learn the spell Haste
+Wants to learn the spell Hypnotic Pattern
+Wants to learn the spell Lightning Bolt
+Wants to learn the spell Magic Circle
+Wants to learn the spell Major Image
+Wants to learn the spell Nondetection
+Wants to learn the spell Phantom Steed
+Wants to learn the spell Protection from Energy
+Wants to learn the spell Remove Curse
+Wants to learn the spell Sending
+Wants to learn the spell Sleet Storm
+Wants to learn the spell Slow
+Wants to learn the spell Stinking Cloud
+Wants to learn the spell Tiny Hut
+Wants to learn the spell Tongues
+Wants to learn the spell Vampiric Touch
+Wants to learn the spell Water Breathing
+Is looking for a Is looking for a Potion of Climbing
+Is looking for a Potion of Healing
+Is looking for a Specific Spell Scroll
+Is looking for a set of Adamantine Armor
+Is looking for an Amulet of Proof against Detection and Location
+Is looking for a Bag of Holding
+Is looking for a Bag of Tricks
+Is looking for Boots of Elven kind
+Is looking for Boots of Striding and Springing
+Is looking for Boots of the Winter lands
+Is looking for Bracers of Archery
+Is looking for a Brooch of Shielding
+Is looking for a Broom of Flying
+Is looking for a Circlet of Blasting
+Is looking for a Cloak of Elven kind
+Is looking for a Cloak of Protection
+Is looking for a Cloak of the Manta Ray
+Is looking for a Decanter of Endless Water
+Is looking for a Deck of Illusions
+Is looking for a Dust of Disappearance
+Is looking for a Dust of Dryness
+Is looking for Dust of Sneezing and Choking
+Is looking for an Efficient Quiver
+Is looking for an Elemental Gem
+Is looking for an Eversmoking Bottle
+Is looking for a Figurine of Wondrous Power
+Is looking for Gauntlets of Ogre Power
+Is looking for a Gem of Brightness
+Is looking for Gloves of Missile Snaring
+Is looking for Gloves of Swimming and Climbing
+Is looking for Goggles of Night
+Is looking for a Hat of Disguise
+Is looking for a Headband of Intellect
+Is looking for a Helm of Comprehending Languages
+Is looking for a Helm of Telepathy
+Is looking for an Immovable Rod
+Is looking for a Javelin of Lightning
+Is looking for a Lantern of Revealing
+Is looking for a Medallion of Thoughts
+Is looking for a set of Mithril Armor
+Is looking for a Necklace of Adaptation
+Is looking for Oil of Slipperiness
+Is looking for a Pearl of Power
+Is looking for a Periapt of Health
+Is looking for a Periapt of Wound Closure
+Is looking for a Philter of Love
+Is looking for Pipes of Haunting
+Is looking for Pipes of the Sewers
+Is looking for a Potion of Animal Friendship
+Is looking for a Potion of Giant Strength
+Is looking for a Potion of Growth
+Is looking for a Potion of Poison
+Is looking for a Potion of Resistance
+Is looking for a Potion of Water Breathing
+Is looking for a Restorative Ointment
+Is looking for a Ring of Jumping
+Is looking for a Ring of Mind Shielding
+Is looking for a Ring of Swimming
+Is looking for a Ring of Warmth
+Is looking for a Ring of Water Walking
+Is looking for a Robe of Useful Items
+Is looking for a Rope of Climbing
+Is looking for a Shield
+Is looking for a Slippers of Spider Climbing
+Is looking for a Spell Scroll
+Is looking for a Staff of the Python
+Is looking for a Stone of Good Luck (Luck stone)
+Is looking for a Trident of Fish Command
+Is looking for a Wand of Magic Detection
+Is looking for a Wand of Magic Missiles
+Is looking for a Wand of Secrets
+Is looking for a Wand of the War Mage
+Is looking for a Wand of Web
+Is looking for a Weapon
+Is looking for a Wind Fan
+Is looking for a Winged Boots
+Is looking for Ammunition
+Is looking for an Amulet of Health
+Is looking for a set of Armor of Resistance
+Is looking for a set of Armor of Vulnerability
+Is looking for an Arrow-Catching Shield
+Is looking for a Bag of Beans
+Is looking for a Bead of Force
+Is looking for a Belt of Dwarvenkind
+Is looking for a Belt of Giant Strength
+Is looking for a Berserker Axe
+Is looking for Boots of Levitation
+Is looking for a Bowl of Commanding Water Elementals
+Is looking for Bracers of Defense
+Is looking for a Brazier of Commanding Fire Elementals
+Is looking for a Cape of the Mountebank
+Is looking for a Censer of Controlling Air Elementals
+Is looking for a Chime of Opening
+Is looking for a Cloak of Displacement
+Is looking for a Cloak of the Bat
+Is looking for a Cube of Force
+Is looking for a Dagger of Venom
+Is looking for a Dancing Sword
+Is looking for a Dimensional Shackles
+Is looking for a Dragon Slayer
+Is looking for a Elven Chain
+Is looking for a Feather Token
+Is looking for a Flame Tongue
+Is looking for a Folding Boat
+Is looking for a Gem of Seeing
+Is looking for a Giant Slayer
+Is looking for a Glamoured Studded Leather
+Is looking for a Handy Haversack
+Is looking for a Helm of Teleportation
+Is looking for a Horn of Blasting
+Is looking for a Horn of Valhalla
+Is looking for Horseshoes of Speed
+Is looking for an Instant Fortress
+Is looking for an Ioun Stone
+Is looking for Iron Bands of Binding
+Is looking for a Mace of Disruption
+Is looking for a Mace of Smiting
+Is looking for a Mace of Terror
+Is looking for a Mantle of Spell Resistance
+Is looking for a Necklace of Fireballs
+Is looking for a Necklace of Prayer Beads
+Is looking for Oil of Etherealness
+Is looking for a Periapt of Proof against Poison
+Is looking for a Portable Hole
+Is looking for a Potion of Clairvoyance
+Is looking for a Potion of Diminution
+Is looking for a Potion of Gaseous Form
+Is looking for a Potion of Heroism
+Is looking for a Potion of Mind Reading
+Is looking for a Ring of Animal Influence
+Is looking for a Ring of Evasion
+Is looking for a Ring of Feather Falling
+Is looking for a Ring of Free Action
+Is looking for a Ring of Protection
+Is looking for a Ring of Resistance
+Is looking for a Ring of Spell Storing
+Is looking for a Ring of the Ram
+Is looking for a Ring of X-ray Vision
+Is looking for a Robe of Eyes
+Is looking for a Rod of Rulership
+Is looking for a Rope of Entanglement
+Is looking for a Shield of Missile Attraction
+Is looking for a Staff of Charming
+Is looking for a Staff of Healing
+Is looking for a Staff of Swarming Insects
+Is looking for a Staff of the Woodlands
+Is looking for a Staff of Withering
+Is looking for a Stone of Controlling Earth Elementals
+Is looking for a Sun Blade
+Is looking for a Sword of Life Stealing
+Is looking for a Sword of Wounding
+Is looking for a Vicious Weapon
+Is looking for a Wand of Binding
+Is looking for a Wand of Enemy Detection
+Is looking for a Wand of Fear
+Is looking for a Wand of Fireballs
+Is looking for a Wand of Lightning Bolts
+Is looking for a Wand of Paralysis
+Is looking for a Wand of Wonder
+Is looking for a Wings of Flying
+Is looking for an Amulet of the Planes
+Is looking for an Animated Shield
+Is looking for an Arrow of Slaying
+Is looking for a Bag of Devouring
+Is looking for Boots of Speed
+Is looking for a Candle of Invocation
+Is looking for a Carpet of Flying
+Is looking for a Cloak of Arachnida
+Is looking for a Crystal Ball
+Is looking for a set of Demon Armor
+Is looking for a set of Dragon Scale Mail
+Is looking for a set of Dwarven Plate
+Is looking for a Dwarven Thrower
+Is looking for a Efreeti Bottle
+Is looking for a Frost Brand
+Is looking for a Helm of Brilliance
+Is looking for Horseshoes of a Zephyr
+Is looking for a Manual of Bodily Health
+Is looking for a Manual of Gainful Exercise
+Is looking for a Manual of Golems
+Is looking for a Manual of Quickness of Action
+Is looking for Marvelous Pigments
+Is looking for a Mirror of Life Trapping
+Is looking for a Nine Lives Stealer
+Is looking for an Oathbow
+Is looking for Oil of Sharpness
+Is looking for a Potion of Flying
+Is looking for a Potion of Invisibility
+Is looking for a Potion of Speed
+Is looking for a Ring of Regeneration
+Is looking for a Ring of Shooting Stars
+Is looking for a Ring of Telekinesis
+Is looking for a Robe of Scintillating Colors
+Is looking for a Robe of Stars
+Is looking for a Rod of Absorption
+Is looking for a Rod of Alertness
+Is looking for a Rod of Security
+Is looking for a Scimitar of Speed
+Is looking for a Wand of Polymorph
+Is looking for an Apparatus of the Crab
+Is looking for a set of Armor of Invulnerability
+Is looking for a Defender
+Is looking for an Iron Flask
+Is looking for a Sovereign Glue
+Is looking for a Universal Solvent
+Is looking for an Artifact
+Has a map to a buried/hidden treasure. Needs help recovering it.

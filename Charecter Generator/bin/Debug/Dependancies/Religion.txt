@@ -1,0 +1,315 @@
+Fanatic of Auril, goddess of winter
+Fanatic of Azuth, god of wizards
+Fanatic of Bane, god of tyranny
+Fanatic of Beshaba, goddess of misfortune
+Fanatic of Bhaal, god of murder
+Fanatic of Chauntea, goddess of agriculture
+Fanatic of Cyric, god of lies
+Fanatic of Deneir, god of writing
+Fanatic of Eldath, goddess of peace
+Fanatic of Gond, god of craft
+Fanatic of Helm, god of protection
+Fanatic of Ilmater, god of endurance
+Fanatic of Kelemvor, god of the dead
+Fanatic of Lathander, god of birth and renewal
+Fanatic of Leira, goddess of illusion
+Fanatic of Lliira, goddess of joy
+Fanatic of Loviatar, goddess of pain
+Fanatic of Malar, god of the hunt
+Fanatic of Mask, god of thieves
+Fanatic of Mielikki, goddess of forests
+Fanatic of Milil, god of poetry and song
+Fanatic of Myrkul, god of death
+Fanatic of Mystra, goddess of magic
+Fanatic of Oghma, god of knowledge
+Fanatic of Savras, god of divination and fate
+Fanatic of Selûne, goddess of the moon
+Fanatic of Shar, goddess of darkness and loss
+Fanatic of Silvanus, god of wild nature
+Fanatic of Sune, goddess of love and beauty
+Fanatic of Talona, goddess of disease and poison
+Fanatic of Talos, god of storms
+Fanatic of Tempus, god of war
+Fanatic of Torm, god of courage and self-sacrifice
+Fanatic of Tymora, goddess of good fortune
+Fanatic of Tyr, god of justice
+Fanatic of Umberlee, goddess of the sea
+Fanatic of Waukeen, goddess of tradeBahamut, dragon god of good
+Fanatic of Blibdoolpoolp, kuo-toa goddess
+Fanatic of Corellon Larethian, elf deity of art and magic
+Fanatic of Deep Sashelas, elf god of the sea
+Fanatic of Eadro, merfolk deity of the sea
+Fanatic of Gari Glitlergold, gnome god of trickery and wiles
+Fanatic of Grolantor, hill giant god of war
+Fanatic of Gruumsh, ore god of storms and war
+Fanatic of Hruggek, bugbear god of violence
+Fanatic of Kurtulmak, kobold god of war and mining
+Fanatic of Laogzed, troglodyte god of hunger
+Fanatic of Lolth, drow goddess of spiders
+Fanatic of Maglubiyel, goblinoid god of war
+Fanatic of Moradin, dwarf god of creation
+Fanatic of Rillifane Rallathil, wood elf god of nature
+Fanatic of Sehanine Moonbow, elf goddess of the moon
+Fanatic of Sekolah, sahuagin god of the hunt
+Fanatic of Semuanya, lizardfolk deity of survival
+Fanatic of Skerrit, centaur and satyr god of nature
+Fanatic of Skoraeus Stonebones, god of stone giants and art
+Fanatic of Surlur, god of fire giants and craft
+Fanatic of Thrym, god of frost giants and strength
+Fanatic of Tiamat, dragon goddess of evil
+Fanatic of Yondalla, halfling goddess of fertility and protection
+Deplores Auril, goddess of winter
+Deplores Azuth, god of wizards
+Deplores Bane, god of tyranny
+Deplores Beshaba, goddess of misfortune
+Deplores Bhaal, god of murder
+Deplores Chauntea, goddess of agriculture
+Deplores Cyric, god of lies
+Deplores Deneir, god of writing
+Deplores Eldath, goddess of peace
+Deplores Gond, god of craft
+Deplores Helm, god of protection
+Deplores Ilmater, god of endurance
+Deplores Kelemvor, god of the dead
+Deplores Lathander, god of birth and renewal
+Deplores Leira, goddess of illusion
+Deplores Lliira, goddess of joy
+Deplores Loviatar, goddess of pain
+Deplores Malar, god of the hunt
+Deplores Mask, god of thieves
+Deplores Mielikki, goddess of forests
+Deplores Milil, god of poetry and song
+Deplores Myrkul, god of death
+Deplores Mystra, goddess of magic
+Deplores Oghma, god of knowledge
+Deplores Savras, god of divination and fate
+Deplores Selûne, goddess of the moon
+Deplores Shar, goddess of darkness and loss
+Deplores Silvanus, god of wild nature
+Deplores Sune, goddess of love and beauty
+Deplores Talona, goddess of disease and poison
+Deplores Talos, god of storms
+Deplores Tempus, god of war
+Deplores Torm, god of courage and self-sacrifice
+Deplores Tymora, goddess of good fortune
+Deplores Tyr, god of justice
+Deplores Umberlee, goddess of the sea
+Deplores Waukeen, goddess of trade
+Deplores Bahamut, dragon god of good
+Deplores Blibdoolpoolp, kuo-toa goddess
+Deplores Corellon Larethian, elf deity of art and magic
+Deplores Deep Sashelas, elf god of the sea
+Deplores Eadro, merfolk deity of the sea
+Deplores Gari Glitlergold, gnome god of trickery and wiles
+Deplores Grolantor, hill giant god of war
+Deplores Gruumsh, ore god of storms and war
+Deplores Hruggek, bugbear god of violence
+Deplores Kurtulmak, kobold god of war and mining
+Deplores Laogzed, troglodyte god of hunger
+Deplores Lolth, drow goddess of spiders
+Deplores Maglubiyel, goblinoid god of war
+Deplores Moradin, dwarf god of creation
+Deplores Rillifane Rallathil, wood elf god of nature
+Deplores Sehanine Moonbow, elf goddess of the moon
+Deplores Sekolah, sahuagin god of the hunt
+Deplores Semuanya, lizardfolk deity of survival
+Deplores Skerrit, centaur and satyr god of nature
+Deplores Skoraeus Stonebones, god of stone giants and art
+Deplores Surlur, god of fire giants and craft
+Deplores Thrym, god of frost giants and strength
+Deplores Tiamat, dragon goddess of evil
+Deplores Yondalla, halfling goddess of fertility and protection
+Dislikes Auril, goddess of winter
+Dislikes Azuth, god of wizards
+Dislikes Bane, god of tyranny
+Dislikes Beshaba, goddess of misfortune
+Dislikes Bhaal, god of murder
+Dislikes Chauntea, goddess of agriculture
+Dislikes Cyric, god of lies
+Dislikes Deneir, god of writing
+Dislikes Eldath, goddess of peace
+Dislikes Gond, god of craft
+Dislikes Helm, god of protection
+Dislikes Ilmater, god of endurance
+Dislikes Kelemvor, god of the dead
+Dislikes Lathander, god of birth and renewal
+Dislikes Leira, goddess of illusion
+Dislikes Lliira, goddess of joy
+Dislikes Loviatar, goddess of pain
+Dislikes Malar, god of the hunt
+Dislikes Mask, god of thieves
+Dislikes Mielikki, goddess of forests
+Dislikes Milil, god of poetry and song
+Dislikes Myrkul, god of death
+Dislikes Mystra, goddess of magic
+Dislikes Oghma, god of knowledge
+Dislikes Savras, god of divination and fate
+Dislikes Selûne, goddess of the moon
+Dislikes Shar, goddess of darkness and loss
+Dislikes Silvanus, god of wild nature
+Dislikes Sune, goddess of love and beauty
+Dislikes Talona, goddess of disease and poison
+Dislikes Talos, god of storms
+Dislikes Tempus, god of war
+Dislikes Torm, god of courage and self-sacrifice
+Dislikes Tymora, goddess of good fortune
+Dislikes Tyr, god of justice
+Dislikes Umberlee, goddess of the sea
+Dislikes Waukeen, goddess of trade
+Dislikes Bahamut, dragon god of good
+Dislikes Blibdoolpoolp, kuo-toa goddess
+Dislikes Corellon Larethian, elf deity of art and magic
+Dislikes Deep Sashelas, elf god of the sea
+Dislikes Eadro, merfolk deity of the sea
+Dislikes Gari Glitlergold, gnome god of trickery and wiles
+Dislikes Grolantor, hill giant god of war
+Dislikes Gruumsh, ore god of storms and war
+Dislikes Hruggek, bugbear god of violence
+Dislikes Kurtulmak, kobold god of war and mining
+Dislikes Laogzed, troglodyte god of hunger
+Dislikes Lolth, drow goddess of spiders
+Dislikes Maglubiyel, goblinoid god of war
+Dislikes Moradin, dwarf god of creation
+Dislikes Rillifane Rallathil, wood elf god of nature
+Dislikes Sehanine Moonbow, elf goddess of the moon
+Dislikes Sekolah, sahuagin god of the hunt
+Dislikes Semuanya, lizardfolk deity of survival
+Dislikes Skerrit, centaur and satyr god of nature
+Dislikes Skoraeus Stonebones, god of stone giants and art
+Dislikes Surlur, god of fire giants and craft
+Dislikes Thrym, god of frost giants and strength
+Dislikes Tiamat, dragon goddess of evil
+Dislikes Yondalla, halfling goddess of fertility and protection
+Very devout to Auril, goddess of winter
+Very devout to Azuth, god of wizards
+Very devout to Bane, god of tyranny
+Very devout to Beshaba, goddess of misfortune
+Very devout to Bhaal, god of murder
+Very devout to Chauntea, goddess of agriculture
+Very devout to Cyric, god of lies
+Very devout to Deneir, god of writing
+Very devout to Eldath, goddess of peace
+Very devout to Gond, god of craft
+Very devout to Helm, god of protection
+Very devout to Ilmater, god of endurance
+Very devout to Kelemvor, god of the dead
+Very devout to Lathander, god of birth and renewal
+Very devout to Leira, goddess of illusion
+Very devout to Lliira, goddess of joy
+Very devout to Loviatar, goddess of pain
+Very devout to Malar, god of the hunt
+Very devout to Mask, god of thieves
+Very devout to Mielikki, goddess of forests
+Very devout to Milil, god of poetry and song
+Very devout to Myrkul, god of death
+Very devout to Mystra, goddess of magic
+Very devout to Oghma, god of knowledge
+Very devout to Savras, god of divination and fate
+Very devout to Selûne, goddess of the moon
+Very devout to Shar, goddess of darkness and loss
+Very devout to Silvanus, god of wild nature
+Very devout to Sune, goddess of love and beauty
+Very devout to Talona, goddess of disease and poison
+Very devout to Talos, god of storms
+Very devout to Tempus, god of war
+Very devout to Torm, god of courage and self-sacrifice
+Very devout to Tymora, goddess of good fortune
+Very devout to Tyr, god of justice
+Very devout to Umberlee, goddess of the sea
+Very devout to Waukeen, goddess of trade
+Very devout to Bahamut, dragon god of good
+Very devout to Blibdoolpoolp, kuo-toa goddess
+Very devout to Corellon Larethian, elf deity of art and magic
+Very devout to Deep Sashelas, elf god of the sea
+Very devout to Eadro, merfolk deity of the sea
+Very devout to Gari Glitlergold, gnome god of trickery and wiles
+Very devout to Grolantor, hill giant god of war
+Very devout to Gruumsh, ore god of storms and war
+Very devout to Hruggek, bugbear god of violence
+Very devout to Kurtulmak, kobold god of war and mining
+Very devout to Laogzed, troglodyte god of hunger
+Very devout to Lolth, drow goddess of spiders
+Very devout to Maglubiyel, goblinoid god of war
+Very devout to Moradin, dwarf god of creation
+Very devout to Rillifane Rallathil, wood elf god of nature
+Very devout to Sehanine Moonbow, elf goddess of the moon
+Very devout to Sekolah, sahuagin god of the hunt
+Very devout to Semuanya, lizardfolk deity of survival
+Very devout to Skerrit, centaur and satyr god of nature
+Very devout to Skoraeus Stonebones, god of stone giants and art
+Very devout to Surlur, god of fire giants and craft
+Very devout to Thrym, god of frost giants and strength
+Very devout to Tiamat, dragon goddess of evil
+Very devout to Yondalla, halfling goddess of fertility and protection
+Moderately worships Auril, goddess of winter
+Moderately worships Azuth, god of wizards
+Moderately worships Bane, god of tyranny
+Moderately worships Beshaba, goddess of misfortune
+Moderately worships Bhaal, god of murder
+Moderately worships Chauntea, goddess of agriculture
+Moderately worships Cyric, god of lies
+Moderately worships Deneir, god of writing
+Moderately worships Eldath, goddess of peace
+Moderately worships Gond, god of craft
+Moderately worships Helm, god of protection
+Moderately worships Ilmater, god of endurance
+Moderately worships Kelemvor, god of the dead
+Moderately worships Lathander, god of birth and renewal
+Moderately worships Leira, goddess of illusion
+Moderately worships Lliira, goddess of joy
+Moderately worships Loviatar, goddess of pain
+Moderately worships Malar, god of the hunt
+Moderately worships Mask, god of thieves
+Moderately worships Mielikki, goddess of forests
+Moderately worships Milil, god of poetry and song
+Moderately worships Myrkul, god of death
+Moderately worships Mystra, goddess of magic
+Moderately worships Oghma, god of knowledge
+Moderately worships Savras, god of divination and fate
+Moderately worships Selûne, goddess of the moon
+Moderately worships Shar, goddess of darkness and loss
+Moderately worships Silvanus, god of wild nature
+Moderately worships Sune, goddess of love and beauty
+Moderately worships Talona, goddess of disease and poison
+Moderately worships Talos, god of storms
+Moderately worships Tempus, god of war
+Moderately worships Torm, god of courage and self-sacrifice
+Moderately worships Tymora, goddess of good fortune
+Moderately worships Tyr, god of justice
+Moderately worships Umberlee, goddess of the sea
+Moderately worships Waukeen, goddess of trade
+Moderately worships Bahamut, dragon god of good
+Moderately worships Blibdoolpoolp, kuo-toa goddess
+Moderately worships Corellon Larethian, elf deity of art and magic
+Moderately worships Deep Sashelas, elf god of the sea
+Moderately worships Eadro, merfolk deity of the sea
+Moderately worships Gari Glitlergold, gnome god of trickery and wiles
+Moderately worships Grolantor, hill giant god of war
+Moderately worships Gruumsh, ore god of storms and war
+Moderately worships Hruggek, bugbear god of violence
+Moderately worships Kurtulmak, kobold god of war and mining
+Moderately worships Laogzed, troglodyte god of hunger
+Moderately worships Lolth, drow goddess of spiders
+Moderately worships Maglubiyel, goblinoid god of war
+Moderately worships Moradin, dwarf god of creation
+Moderately worships Rillifane Rallathil, wood elf god of nature
+Moderately worships Sehanine Moonbow, elf goddess of the moon
+Moderately worships Sekolah, sahuagin god of the hunt
+Moderately worships Semuanya, lizardfolk deity of survival
+Moderately worships Skerrit, centaur and satyr god of nature
+Moderately worships Skoraeus Stonebones, god of stone giants and art
+Moderately worships Surlur, god of fire giants and craft
+Moderately worships Thrym, god of frost giants and strength
+Moderately worships Tiamat, dragon goddess of evil
+Moderately worships Yondalla, halfling goddess of fertility and protection
+Agnostic
+Agnostic
+Agnostic
+Agnostic
+Agnostic
+Agnostic
+Agnostic
+Agnostic
+Agnostic
+Agnostic
+

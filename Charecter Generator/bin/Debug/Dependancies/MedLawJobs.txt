@@ -1,0 +1,11 @@
+Sheriff
+Marshal
+Veteran
+Constable
+Officer
+Knight
+Corporal
+Lieutenant
+Captain
+Commander
+Guard

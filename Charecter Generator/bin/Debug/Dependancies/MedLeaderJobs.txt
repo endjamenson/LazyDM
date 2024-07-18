@@ -1,0 +1,14 @@
+Chief
+Mayor
+Town  Leader
+Lord/Lady
+Master
+Minister
+Baron/Baronness 
+Governor/Governess
+Treasurer
+Stormlord
+Warlord
+Knight
+Magister
+Diplomat

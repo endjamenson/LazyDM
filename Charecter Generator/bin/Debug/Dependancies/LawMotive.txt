@@ -1,0 +1,101 @@
+Wants to keep town safe. 
+Wants to restore a fallen order of heroes
+Wants to eradicate a local crime organization
+Wants a bandit terrorizing the area caught and brought in alive
+Wants a bandit terrorizing the area caught and dealt with quietly before returning to town
+Secretly supporting a local crime organization
+Is trying to retire and live down the fame and acclaim attached to their name
+Was once a famous adventurer and wants everyone to know it
+Is secretly a doppleganger posing as dead lawperson. Wants to replace entire town with dopplegangers
+Is desperately trying to remain law with no support from the citizens
+Wants to solve an unsolved murder
+Wants to solve an unsolved break-in/robbery
+Wants to prevent a heist
+Wants to catch a serial killer.
+Wants to catch a serial pooper.
+Wants to stop kids from vandalizing local properties
+Wants to make up for past crimes committed under different name.
+Is really a criminal who killed the law and has been posing as them.
+Wants to prevent a murder/assassination.
+Wants to help town experience economic boom. 
+Wants to explore a local unexplained phenomenon
+Secretly funding a local crime organization
+Is dying and is using natural means to try to prevent death
+Is dying and is using dark magics to try to prevent death
+Is looking for a suitable and profitable match for unwed daughter
+Is trying to prevent unwed daughter from marrying local miscreant
+Is trying to prevent unwed daughter from marrying member from rival family
+Is secretly hiding a large fortune of legendary magical items
+Is secretly a golden dragon in different form. Protects the city as it's own.
+Is secretly a doppelganger posing as dead leader. Wants to replace entire town with doppelgangers
+Is looking for a Spellguard Shield
+Is looking for a Staff of Fire
+Is looking for a Staff of Frost
+Is looking for a Staff of Power
+Is looking for a Staff of Striking
+Is looking for a Staff of Thunder and Lightning
+Is looking for a Sword of Sharpness
+Is looking for a Wand of the War Mage
+Is looking for a set of Armor of Invulnerability
+Is looking for a Belt of Giant Strength
+Is looking for a Crystal Ball
+Is looking for a Hammer of Thunderbolts
+Is looking for a Holy Avenger
+Is looking for a Luck Blade
+Is looking for a set of Plate Armor of Etherealness
+Is looking for a Ring of Elemental Command
+Is looking for a Ring of Invisibility
+Is looking for a Ring of Spell Turning
+Is looking for a Scarab of Protection
+Is looking for a Sphere of Annihilation
+Is looking for a Staff of the Magi
+Is looking for a Vorpal Sword
+Is looking for an Artifact
+Wants the town to host a singing competition.
+Wants the town to host a cooking competition.
+Wants the town to host a fighting tournament.
+Wants to open a new church for the prevailing religion in town.
+Wants to open a new church for an uncommon religion in town.
+Wants to open a new church for a disliked religion in town.
+Wants a dragon nearby killed or removed as a threat. 
+Wants to send an expedition to find a lost library with great trove of knowledge.
+Wants to send an expedition to open a sealed vault
+Wants to send an expedition to open a sealed tomb.
+Wants to send an expedition to an uncovered archeological dig site.
+Wants a local yeti terrorizing the area dealt with.
+Wants a horde of zombies dealt with.
+The local orchard is being plagued by giant wasp and they want the issue cleared.
+They want a tribe of lizardfolk nearby to no longer be a threat to the area.
+They want a band of goblins terrorizing the area dealt with.
+They want a hill giant terrorizing the area dealt with.
+They want a fomorian giant terrorizing the area dealt with.
+A Roc has been hunting in the area terrorizing livestock. They would like you to deal with the issue.
+There has been an ogre zombie seen in the area. They would like the situation investigated and resolved.
+They want a werewolf terrorizing the area dealt with.
+They want a werebear terrorizing the area dealt with.
+They want a weregoat terrorizing the area dealt with.
+They want a Hag/Witch living in the area relocated or dealt with.
+Has made a deal with a devil and wants out of the deal.
+Is looking for a Noble Djinni trapped in an everyday item to grant them a wish.
+Believes there to be a vampire threat nearby and would like it dealt with.
+Believes there to be a doppelganger in town and would like it investigated.
+Would like an abandoned wizard's tower nearby searched and a specific item returned. 
+Wants to investigate if there is a possible Thief's Guild in their town. 
+Wants a specific murder of a local bard investigated.
+The sons of local noblemen have been going missing and they would like it investigated.
+Wants to hold the region's first magic competition. 
+Wants to hold an archery competition for the region.
+Wants to become next town leader
+Wants to conduct business as usual
+Wants to learn a conjuration spell.
+Wants to learn the spell Fire Bolt
+Wants to learn the spell Mage Hand
+Wants to learn the spell Mending
+Wants to learn the spell Message
+Wants to learn the spell Detect Magic
+Wants to learn the spell Protection from Evil and Good
+Wants to learn the spell Shield
+Wants to learn the spell Counterspell
+Wants to learn the spell Dispel Magic
+Is looking for a Potion of Healing
+Is looking for a set of Adamantine Armor

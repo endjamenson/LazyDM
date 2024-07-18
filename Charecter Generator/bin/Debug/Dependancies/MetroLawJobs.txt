@@ -1,0 +1,16 @@
+Sheriff
+Marshal
+Veteran
+Knight
+Corporal
+Lieutenant
+Captain
+General
+Commandant
+Field Marshal
+Head Judge
+Head of Interrogation
+Guard
+Spy Master
+Constable
+Officer
